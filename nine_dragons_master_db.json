@@ -1,0 +1,541 @@
+{
+  "items": [
+    {
+      "itemId": "50e59259-17c3-47c4-9fa7-76bb574463da",
+      "itemName": "[빙정] 얼음비단 위건 (진)",
+      "slot": "relic",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "itemOptions": [
+        {
+          "type": 58,
+          "value": 50,
+          "name": "제작 성공 확률 % 증가"
+        },
+        {
+          "type": 56,
+          "value": 200,
+          "name": "경험치 획득 % 증가"
+        },
+        {
+          "type": 57,
+          "value": 200,
+          "name": "무공 숙련도 % 증가"
+        },
+        {
+          "type": 55,
+          "value": 200,
+          "name": "제련 성공 확률 % 증가"
+        },
+        {
+          "type": 54,
+          "value": 200,
+          "name": "아이템 드랍율 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "99d8ad85-bf6f-4086-b065-f8bbd250674c",
+      "itemName": "철혈문 은원패 [완]",
+      "slot": "relic",
+      "setId": "a1c2652f-88ee-4366-bc1f-406b80c7dcf5",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 300,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 17,
+          "value": 25000,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 20,
+          "value": 250,
+          "name": "치명타 시 공격력 추가"
+        },
+        {
+          "type": 1,
+          "value": 30000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 41,
+          "value": 10000,
+          "name": "음양혼신 저항력 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "8e990559-70a6-4de8-8b25-5f1c8f37b813",
+      "itemName": "사자 행등 [진]",
+      "slot": "relic",
+      "setId": "1a39ec8d-fa01-49ec-943a-f4c1b8b81e9d",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "itemOptions": [
+        {
+          "type": 6,
+          "value": 200,
+          "name": "무기 공격력 % 증가"
+        },
+        {
+          "type": 22,
+          "value": 900,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 17,
+          "value": 20000,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 61,
+          "value": 90,
+          "name": "공격력 생명 흡수"
+        },
+        {
+          "type": 21,
+          "value": 400,
+          "name": "치명타 방어력 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "0798a531-1445-4b28-ba3a-4881199e57de",
+      "itemName": "사자 부채 [진]",
+      "slot": "relic",
+      "setId": "1a39ec8d-fa01-49ec-943a-f4c1b8b81e9d",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "itemOptions": [
+        {
+          "type": 20,
+          "value": 180,
+          "name": "치명타 시 공격력 추가"
+        },
+        {
+          "type": 41,
+          "value": 3000,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 1,
+          "value": 32500,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 25000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 43,
+          "value": 35,
+          "name": "다수의 상태이상 발생을 % 확률로 저항"
+        }
+      ]
+    },
+    {
+      "itemId": "431a1787-b5a2-4904-8643-fa2cdda5a83e",
+      "itemName": "[6성] 자령귀모",
+      "slot": "guardian",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "itemOptions": [
+        {
+          "type": 39,
+          "value": 15000,
+          "name": "음양혼신 공격력 추가"
+        },
+        {
+          "type": 80,
+          "value": 10,
+          "name": "물리/기공 피해 % 감소"
+        },
+        {
+          "type": 41,
+          "value": 25000,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 42,
+          "value": 10,
+          "name": "음양혼신 저항력 % 증가"
+        },
+        {
+          "type": 1,
+          "value": 32500,
+          "name": "생명 최대치 상승"
+        }
+      ]
+    },
+    {
+      "itemId": "5024e53a-4e99-466e-9a03-484850eac0dc",
+      "itemName": "암성 멸적영아 봉",
+      "slot": "weapon",
+      "setId": null,
+      "baseDamageMin": 10631,
+      "baseDamageMax": 13130,
+      "refineDamage": 64304,
+      "refineLevel": 18,
+      "itemOptions": [
+        {
+          "type": 20,
+          "value": 170,
+          "name": "치명타 시 공격력 추가"
+        },
+        {
+          "type": 6,
+          "value": 95,
+          "name": "무기 공격력 % 증가"
+        },
+        {
+          "type": 79,
+          "value": 15000,
+          "name": "체력/내공 상승"
+        },
+        {
+          "type": 39,
+          "value": 3000,
+          "name": "음양혼신 공격력 추가"
+        }
+      ]
+    },
+    {
+      "itemId": "b200db9d-9998-4b77-a890-0d016bda91d1",
+      "itemName": "한빙 청옥세류 봉",
+      "slot": "weapon",
+      "setId": null,
+      "baseDamageMin": 8533,
+      "baseDamageMax": 10714,
+      "refineDamage": 52707,
+      "refineLevel": 18,
+      "itemOptions": [
+        {
+          "type": 1,
+          "value": 10000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 3,
+          "value": 10000,
+          "name": "내공 최대치 상승"
+        },
+        {
+          "type": 20,
+          "value": 100,
+          "name": "치명타 시 공격력 추가"
+        },
+        {
+          "type": 17,
+          "value": 8500,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 6,
+          "value": 40,
+          "name": "무기 공격력 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-2091-46bb-a232",
+      "itemName": "(진) 심혼패",
+      "slot": "decoration",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 77,
+          "value": 7500,
+          "name": "물리/기공 공격력 상승",
+          "targetPart": "weapon"
+        },
+        {
+          "type": 39,
+          "value": 2500,
+          "name": "음양혼신 공격력 추가",
+          "targetPart": "weapon"
+        },
+        {
+          "type": 20,
+          "value": 50,
+          "name": "치명타 시 공격력 추가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 41,
+          "value": 1500,
+          "name": "음양혼신 저항력 증가",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+    {
+      "itemId": "item-a423-4f59-a5c5",
+      "itemName": "한빙 청옥세류 권",
+      "slot": "weapon",
+      "setId": null,
+      "baseDamageMin": 7120,
+      "baseDamageMax": 1251,
+      "refineDamage": 55284,
+      "refineLevel": 18,
+      "itemOptions": [
+        {
+          "type": 1,
+          "value": 10000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 3,
+          "value": 10000,
+          "name": "내공 최대치 상승"
+        },
+        {
+          "type": 20,
+          "value": 100,
+          "name": "치명타 시 공격력 추가"
+        },
+        {
+          "type": 17,
+          "value": 8500,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 6,
+          "value": 40,
+          "name": "무기 공격력 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-5766-4719-b26e",
+      "itemName": "천운 흑룡포 모",
+      "slot": "armor_hat",
+      "setId": "item-5364-4ec5-adbe",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 61,
+          "value": 40,
+          "name": "공격력 생명 흡수"
+        },
+        {
+          "type": 41,
+          "value": 1000,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 88,
+          "value": 50,
+          "name": "물리/기공 피해반사를 상쇄"
+        },
+        {
+          "type": 77,
+          "value": 9000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 13,
+          "value": 20,
+          "name": "물리 공격력 % 상승"
+        },
+        {
+          "type": 14,
+          "value": 20,
+          "name": "기공 공격력 % 상승"
+        }
+      ]
+    }
+  ],
+  "setEffects": [
+    {
+      "setId": "set_ch_badge",
+      "setName": "철혈문 세트",
+      "effects": [
+        {
+          "requiredCount": 1,
+          "options": [
+            {
+              "type": 77,
+              "value": 25000
+            },
+            {
+              "type": 39,
+              "value": 10000
+            },
+            {
+              "type": 6,
+              "value": 200
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "a1c2652f-88ee-4366-bc1f-406b80c7dcf5",
+      "setName": "철혈문 은원패 [완]",
+      "effects": [
+        {
+          "requiredCount": 1,
+          "options": [
+            {
+              "type": 77,
+              "value": 25000,
+              "name": "물리/기공 공격력 상승"
+            },
+            {
+              "type": 39,
+              "value": 10000,
+              "name": "음양혼신 공격력 추가"
+            },
+            {
+              "type": 61,
+              "value": 80,
+              "name": "공격력 생명 흡수"
+            },
+            {
+              "type": 62,
+              "value": 80,
+              "name": "공격력 내공 흡수"
+            },
+            {
+              "type": 6,
+              "value": 200,
+              "name": "무기 공격력 % 증가"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "1a39ec8d-fa01-49ec-943a-f4c1b8b81e9d",
+      "setName": "사자 [진] 세트",
+      "effects": [
+        {
+          "requiredCount": 1,
+          "options": [
+            {
+              "type": 1,
+              "value": 32500,
+              "name": "생명 최대치 상승"
+            },
+            {
+              "type": 77,
+              "value": 15000,
+              "name": "물리/기공 공격력 상승"
+            }
+          ]
+        },
+        {
+          "requiredCount": 2,
+          "options": [
+            {
+              "type": 39,
+              "value": 15000,
+              "name": "음양혼신 공격력 추가"
+            },
+            {
+              "type": 20,
+              "value": 170,
+              "name": "치명타 시 공격력 추가"
+            },
+            {
+              "type": 17,
+              "value": 15000,
+              "name": "치명타 확률 증가"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "item-5364-4ec5-adbe",
+      "setName": "천운 세트",
+      "effects": [
+        {
+          "requiredCount": 5,
+          "options": [
+            {
+              "type": 1,
+              "value": 15000,
+              "name": "생명 최대치 상승"
+            },
+            {
+              "type": 17,
+              "value": 8000,
+              "name": "치명타 확률 증가"
+            },
+            {
+              "type": 20,
+              "value": 80,
+              "name": "치명타 시 공격력 추가"
+            },
+            {
+              "type": 15,
+              "value": 82.5,
+              "name": "공격 속도 % 증가"
+            },
+            {
+              "type": 85,
+              "value": 45,
+              "name": "무공 재사용/시전시간 감소"
+            },
+            {
+              "type": 41,
+              "value": 3000,
+              "name": "음양혼신 저항력 증가"
+            },
+            {
+              "type": 77,
+              "value": 12000,
+              "name": "물리/기공 공격력 상승"
+            },
+            {
+              "type": 6,
+              "value": 40,
+              "name": "무기 공격력 % 증가"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "decSetEffects": [
+    {
+      "decSetId": "item-7384-469c-9886",
+      "decSetName": "심혼패세트효과",
+      "targetPart": "clothes",
+      "recipe": [
+        "(진) 심혼패",
+        "(진) 심혼패",
+        "(진) 심혼패",
+        "(진) 심혼패"
+      ],
+      "setOptions": [
+        {
+          "type": 77,
+          "value": 30000,
+          "name": "물리/기공 공격력 상승"
+        }
+      ]
+    }
+  ]
+}
