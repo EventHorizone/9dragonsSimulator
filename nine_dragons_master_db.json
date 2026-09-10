@@ -285,78 +285,158 @@
         }
       ]
     },
-	{
-		"itemId": "dec-blood-moon-lantern",
-		"itemName": "혈월등",
-		"slot": "decoration",
-		"itemOptions": [
-		  { "type": 77, "value": 8000, "name": "물리/기공 공격력 상승", "targetPart": "weapon" },
-		  { "type": 39, "value": 3000, "name": "음양혼신 공격력 추가", "targetPart": "weapon" }
-		]
-	  },
-	  {
-		"itemId": "dec-red-blood-bead",
-		"itemName": "적혈주",
-		"slot": "decoration",
-		"itemOptions": [
-		  { "type": 77, "value": 12000, "name": "물리/기공 공격력 상승", "targetPart": "weapon" },
-		  { "type": 6, "value": 80, "name": "무기 공격력 % 증가", "targetPart": "weapon" }
-		]
-	  },
-	  {
-		"itemId": "dec-black-flame-incense",
-		"itemName": "흑염향로",
-		"slot": "decoration",
-		"itemOptions": [
-		  { "type": 20, "value": 70, "name": "치명타 시 공격력 추가", "targetPart": "clothes" },
-		  { "type": 17, "value": 2000, "name": "치명타 확률 증가", "targetPart": "clothes" }
-		]
-	  },
-	  {
-		"itemId": "dec-blood-demon-seal",
-		"itemName": "혈마기",
-		"slot": "decoration",
-		"itemOptions": [
-		  { "type": 56, "value": 15, "name": "경험치 획득 % 증가", "targetPart": "clothes" },
-		  { "type": 54, "value": 10, "name": "아이템 드랍율 % 증가", "targetPart": "clothes" }
-		]
-	  },
-	  {
-		"itemId": "dec-soul-eye-emblem",
-		"itemName": "혼안문장",
-		"slot": "decoration",
-		"itemOptions": [
-		  { "type": 20, "value": 70, "name": "치명타 시 공격력 추가", "targetPart": "weapon" },
-		  { "type": 77, "value": 10000, "name": "물리/기공 공격력 상승", "targetPart": "weapon" }
-		]
-	  },
-	  {
-		"itemId": "dec-ghost-eye-mirror",
-		"itemName": "귀안거울",
-		"slot": "decoration",
-		"itemOptions": [
-		  { "type": 21, "value": 60, "name": "치명타 방어력 증가", "targetPart": "clothes" },
-		  { "type": 17, "value": 3000, "name": "치명타 확률 증가", "targetPart": "clothes" }
-		]
-	  },
-	  {
-		"itemId": "dec-red-eye-sculpture",
-		"itemName": "적안부조",
-		"slot": "decoration",
-		"itemOptions": [
-		  { "type": 1, "value": 4000, "name": "생명 최대치 상승", "targetPart": "clothes" },
-		  { "type": 41, "value": 2500, "name": "음양혼신 저항력 증가", "targetPart": "clothes" }
-		]
-	  },
-	  {
-		"itemId": "dec-dead-soul-tablet",
-		"itemName": "사혼비",
-		"slot": "decoration",
-		"itemOptions": [
-		  { "type": 56, "value": 25, "name": "경험치 획득 % 증가", "targetPart": "clothes" },
-		  { "type": 54, "value": 15, "name": "아이템 드랍율 % 증가", "targetPart": "clothes" }
-		]
-	  },
+    {
+      "itemId": "dec-blood-moon-lantern",
+      "itemName": "혈월등",
+      "slot": "decoration",
+      "itemOptions": [
+        {
+          "type": 77,
+          "value": 8000,
+          "name": "물리/기공 공격력 상승",
+          "targetPart": "weapon"
+        },
+        {
+          "type": 39,
+          "value": 3000,
+          "name": "음양혼신 공격력 추가",
+          "targetPart": "weapon"
+        }
+      ]
+    },
+    {
+      "itemId": "dec-red-blood-bead",
+      "itemName": "적혈주",
+      "slot": "decoration",
+      "itemOptions": [
+        {
+          "type": 77,
+          "value": 12000,
+          "name": "물리/기공 공격력 상승",
+          "targetPart": "weapon"
+        },
+        {
+          "type": 6,
+          "value": 80,
+          "name": "무기 공격력 % 증가",
+          "targetPart": "weapon"
+        }
+      ]
+    },
+    {
+      "itemId": "dec-black-flame-incense",
+      "itemName": "흑염향로",
+      "slot": "decoration",
+      "itemOptions": [
+        {
+          "type": 20,
+          "value": 70,
+          "name": "치명타 시 공격력 추가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 17,
+          "value": 2000,
+          "name": "치명타 확률 증가",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+    {
+      "itemId": "dec-blood-demon-seal",
+      "itemName": "혈마기",
+      "slot": "decoration",
+      "itemOptions": [
+        {
+          "type": 56,
+          "value": 15,
+          "name": "경험치 획득 % 증가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 54,
+          "value": 10,
+          "name": "아이템 드랍율 % 증가",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+    {
+      "itemId": "dec-soul-eye-emblem",
+      "itemName": "혼안문장",
+      "slot": "decoration",
+      "itemOptions": [
+        {
+          "type": 20,
+          "value": 70,
+          "name": "치명타 시 공격력 추가",
+          "targetPart": "weapon"
+        },
+        {
+          "type": 77,
+          "value": 10000,
+          "name": "물리/기공 공격력 상승",
+          "targetPart": "weapon"
+        }
+      ]
+    },
+    {
+      "itemId": "dec-ghost-eye-mirror",
+      "itemName": "귀안거울",
+      "slot": "decoration",
+      "itemOptions": [
+        {
+          "type": 21,
+          "value": 60,
+          "name": "치명타 방어력 증가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 17,
+          "value": 3000,
+          "name": "치명타 확률 증가",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+    {
+      "itemId": "dec-red-eye-sculpture",
+      "itemName": "적안부조",
+      "slot": "decoration",
+      "itemOptions": [
+        {
+          "type": 1,
+          "value": 4000,
+          "name": "생명 최대치 상승",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 41,
+          "value": 2500,
+          "name": "음양혼신 저항력 증가",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+    {
+      "itemId": "dec-dead-soul-tablet",
+      "itemName": "사혼비",
+      "slot": "decoration",
+      "itemOptions": [
+        {
+          "type": 56,
+          "value": 25,
+          "name": "경험치 획득 % 증가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 54,
+          "value": 15,
+          "name": "아이템 드랍율 % 증가",
+          "targetPart": "clothes"
+        }
+      ]
+    },
     {
       "itemId": "item-a423-4f59-a5c5",
       "itemName": "한빙 청옥세류 권",
@@ -438,29 +518,6 @@
     }
   ],
   "setEffects": [
-    {
-      "setId": "set_ch_badge",
-      "setName": "철혈문 세트",
-      "effects": [
-        {
-          "requiredCount": 1,
-          "options": [
-            {
-              "type": 77,
-              "value": 25000
-            },
-            {
-              "type": 39,
-              "value": 10000
-            },
-            {
-              "type": 6,
-              "value": 200
-            }
-          ]
-        }
-      ]
-    },
     {
       "setId": "a1c2652f-88ee-4366-bc1f-406b80c7dcf5",
       "setName": "철혈문 은원패 [완]",
@@ -591,85 +648,189 @@
     }
   ],
   "decSetEffects": [
-	{
-		"decSetId": "dec-set-weapon-001",
-		"decSetName": "혈혼적사 격노 조합",
-		"targetPart": "weapon",
-		"recipe": ["혈월등", "혼안문장", "적혈주", "사혼비"],
-		"setOptions": [
-		  { "type": 20, "value": 100, "name": "치명타 시 공격력 추가" },
-		  { "type": 39, "value": 6000, "name": "음양혼신 공격력 추가" }
-		]
-	  },
-	  {
-		"decSetId": "dec-set-weapon-002",
-		"decSetName": "혼적사혈 살육 조합",
-		"targetPart": "weapon",
-		"recipe": ["혼안문장", "적혈주", "사혼비", "혈월등"],
-		"setOptions": [
-		  { "type": 20, "value": 150, "name": "치명타 시 공격력 추가" },
-		  { "type": 77, "value": 20000, "name": "물리/기공 공격력 상승" }
-		]
-	  },
-	  {
-		"decSetId": "dec-set-weapon-003",
-		"decSetName": "적사혈혼 파멸 조합",
-		"targetPart": "weapon",
-		"recipe": ["적혈주", "사혼비", "혈월등", "혼안문장"],
-		"setOptions": [
-		  { "type": 6, "value": 150, "name": "무기 공격력 % 증가" },
-		  { "type": 77, "value": 25000, "name": "물리/기공 공격력 상승" }
-		]
-	  },
-	  {
-		"decSetId": "dec-set-weapon-004",
-		"decSetName": "사혈혼적 신공 조합",
-		"targetPart": "weapon",
-		"recipe": ["사혼비", "혈월등", "혼안문장", "적혈주"],
-		"setOptions": [
-		  { "type": 55, "value": 30, "name": "제련 성공 확률 % 증가" },
-		  { "type": 58, "value": 15, "name": "제작 성공 확률 % 증가" }
-		]
-	  },
-	  {
-		"decSetId": "dec-set-armor-001",
-		"decSetName": "적귀흑혈 가호 조합",
-		"targetPart": "armor_total",
-		"recipe": ["적안부조", "귀안거울", "흑염향로", "혈마기"],
-		"setOptions": [
-		  { "type": 1, "value": 14000, "name": "생명 최대치 상승" },
-		  { "type": 41, "value": 5000, "name": "음양혼신 저항력 증가" }
-		]
-	  },
-	  {
-		"decSetId": "dec-set-armor-002",
-		"decSetName": "귀흑혈적 철벽 조합",
-		"targetPart": "armor_total",
-		"recipe": ["귀안거울", "흑염향로", "혈마기", "적안부조"],
-		"setOptions": [
-		  { "type": 80, "value": 10, "name": "물리/기공 피해 % 감소" },
-		  { "type": 82, "value": 6000, "name": "물리/기공 방어력 증가" }
-		]
-	  },
-	  {
-		"decSetId": "dec-set-armor-003",
-		"decSetName": "흑혈적귀 멸살 조합",
-		"targetPart": "armor_total",
-		"recipe": ["흑염향로", "혈마기", "적안부조", "귀안거울"],
-		"setOptions": [
-		  { "type": 20, "value": 140, "name": "치명타 시 공격력 추가" },
-		  { "type": 21, "value": 120, "name": "치명타 방어력 증가" }
-		]
-	  },
-	  {
-		"decSetId": "dec-set-armor-004",
-		"decSetName": "사혈혼적 풍요 조합",
-		"targetPart": "armor_total",
-		"recipe": ["사혼비", "혈월등", "혼안문장", "적혈주"],
-		"setOptions": [
-		  { "type": 56, "value": 35, "name": "경험치 획득 % 증가" },
-		  { "type": 54, "value": 20, "name": "아이템 드랍율 % 증가" }
-		]
-	  }
+    {
+      "decSetId": "dec-set-weapon-001",
+      "decSetName": "혈혼적사 격노 조합",
+      "targetPart": "weapon",
+      "recipe": [
+        "혈월등",
+        "혼안문장",
+        "적혈주",
+        "사혼비"
+      ],
+      "setOptions": [
+        {
+          "type": 20,
+          "value": 100,
+          "name": "치명타 시 공격력 추가"
+        },
+        {
+          "type": 39,
+          "value": 6000,
+          "name": "음양혼신 공격력 추가"
+        }
+      ]
+    },
+    {
+      "decSetId": "dec-set-weapon-002",
+      "decSetName": "혼적사혈 살육 조합",
+      "targetPart": "weapon",
+      "recipe": [
+        "혼안문장",
+        "적혈주",
+        "사혼비",
+        "혈월등"
+      ],
+      "setOptions": [
+        {
+          "type": 20,
+          "value": 150,
+          "name": "치명타 시 공격력 추가"
+        },
+        {
+          "type": 77,
+          "value": 20000,
+          "name": "물리/기공 공격력 상승"
+        }
+      ]
+    },
+    {
+      "decSetId": "dec-set-weapon-003",
+      "decSetName": "적사혈혼 파멸 조합",
+      "targetPart": "weapon",
+      "recipe": [
+        "적혈주",
+        "사혼비",
+        "혈월등",
+        "혼안문장"
+      ],
+      "setOptions": [
+        {
+          "type": 6,
+          "value": 150,
+          "name": "무기 공격력 % 증가"
+        },
+        {
+          "type": 77,
+          "value": 25000,
+          "name": "물리/기공 공격력 상승"
+        }
+      ]
+    },
+    {
+      "decSetId": "dec-set-weapon-004",
+      "decSetName": "사혈혼적 신공 조합",
+      "targetPart": "weapon",
+      "recipe": [
+        "사혼비",
+        "혈월등",
+        "혼안문장",
+        "적혈주"
+      ],
+      "setOptions": [
+        {
+          "type": 55,
+          "value": 30,
+          "name": "제련 성공 확률 % 증가"
+        },
+        {
+          "type": 58,
+          "value": 15,
+          "name": "제작 성공 확률 % 증가"
+        }
+      ]
+    },
+    {
+      "decSetId": "dec-set-armor-001",
+      "decSetName": "적귀흑혈 가호 조합",
+      "targetPart": "armor_total",
+      "recipe": [
+        "적안부조",
+        "귀안거울",
+        "흑염향로",
+        "혈마기"
+      ],
+      "setOptions": [
+        {
+          "type": 1,
+          "value": 14000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 41,
+          "value": 5000,
+          "name": "음양혼신 저항력 증가"
+        }
+      ]
+    },
+    {
+      "decSetId": "dec-set-armor-002",
+      "decSetName": "귀흑혈적 철벽 조합",
+      "targetPart": "armor_total",
+      "recipe": [
+        "귀안거울",
+        "흑염향로",
+        "혈마기",
+        "적안부조"
+      ],
+      "setOptions": [
+        {
+          "type": 80,
+          "value": 10,
+          "name": "물리/기공 피해 % 감소"
+        },
+        {
+          "type": 82,
+          "value": 6000,
+          "name": "물리/기공 방어력 증가"
+        }
+      ]
+    },
+    {
+      "decSetId": "dec-set-armor-003",
+      "decSetName": "흑혈적귀 멸살 조합",
+      "targetPart": "armor_total",
+      "recipe": [
+        "흑염향로",
+        "혈마기",
+        "적안부조",
+        "귀안거울"
+      ],
+      "setOptions": [
+        {
+          "type": 20,
+          "value": 140,
+          "name": "치명타 시 공격력 추가"
+        },
+        {
+          "type": 21,
+          "value": 120,
+          "name": "치명타 방어력 증가"
+        }
+      ]
+    },
+    {
+      "decSetId": "dec-set-armor-004",
+      "decSetName": "사혈혼적 풍요 조합",
+      "targetPart": "armor_total",
+      "recipe": [
+        "사혼비",
+        "혈월등",
+        "혼안문장",
+        "적혈주"
+      ],
+      "setOptions": [
+        {
+          "type": 56,
+          "value": 35,
+          "name": "경험치 획득 % 증가"
+        },
+        {
+          "type": 54,
+          "value": 20,
+          "name": "아이템 드랍율 % 증가"
+        }
+      ]
+    }
   ]
 }
