@@ -515,6 +515,43 @@
           "name": "기공 공격력 % 상승"
         }
       ]
+    },
+    {
+      "itemId": "item-2772-470b-8de2",
+      "itemName": "폭염지주",
+      "slot": "epithet",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 6,
+          "value": 100,
+          "name": "무기 공격력 % 증가"
+        },
+        {
+          "type": 20,
+          "value": 200,
+          "name": "치명타 시 공격력 추가"
+        },
+        {
+          "type": 1,
+          "value": 32000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 41,
+          "value": 3000,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 23,
+          "value": 3000,
+          "name": "음의 공격력 추가"
+        }
+      ]
     }
   ],
   "setEffects": [
