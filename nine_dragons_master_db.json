@@ -552,6 +552,154 @@
           "name": "음의 공격력 추가"
         }
       ]
+    },
+    {
+      "itemId": "item-25ba-4182-ad5c",
+      "itemName": "천운 흑룡포 대",
+      "slot": "armor_gloves",
+      "setId": "item-5364-4ec5-adbe",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 94,
+          "value": 3500,
+          "name": "총 피해 감소 [대전 시]"
+        },
+        {
+          "type": 95,
+          "value": 2400,
+          "name": "형세-막을 % 파쇄"
+        },
+        {
+          "type": 88,
+          "value": 50,
+          "name": "물리/기공 피해반사를 상쇄"
+        },
+        {
+          "type": 6,
+          "value": 60,
+          "name": "무기 공격력 % 증가"
+        },
+        {
+          "type": 89,
+          "value": 20,
+          "name": "물리/기공 균형 상승"
+        }
+      ]
+    },
+    {
+      "itemId": "item-f41f-410a-a621",
+      "itemName": "천운 흑룡포 화",
+      "slot": "armor_boots",
+      "setId": "item-5364-4ec5-adbe",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 96,
+          "value": 150,
+          "name": "이동 속도 % 증가"
+        },
+        {
+          "type": 86,
+          "value": 1800,
+          "name": "물리/기공 회피 상승"
+        },
+        {
+          "type": 87,
+          "value": 2400,
+          "name": "물리/기공 공격 성공치 상승"
+        },
+        {
+          "type": 22,
+          "value": 150,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 21,
+          "value": 150,
+          "name": "치명타 방어력 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-67a1-47df-a810",
+      "itemName": "천운 흑룡포 의",
+      "slot": "armor_top",
+      "setId": "item-5364-4ec5-adbe",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 21,
+          "value": 200,
+          "name": "치명타 방어력 % 증가"
+        },
+        {
+          "type": 1,
+          "value": 18000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 3,
+          "value": 14000,
+          "name": "내공 최대치 상승"
+        },
+        {
+          "type": 41,
+          "value": 1500,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 43,
+          "value": 17,
+          "name": "다수의 상태이상 발생을 % 확률로 저항"
+        }
+      ]
+    },
+    {
+      "itemId": "item-9c24-4da4-b9cf",
+      "itemName": "천운 흑룡포 고",
+      "slot": "armor_bottom",
+      "setId": "item-5364-4ec5-adbe",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 200,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 94,
+          "value": 2400,
+          "name": "총 피해 감소 [대전 시]"
+        },
+        {
+          "type": 82,
+          "value": 12000,
+          "name": "물리/기공 방어력 증가"
+        },
+        {
+          "type": 20,
+          "value": 65,
+          "name": "치명타 시 공격력 % 추가"
+        },
+        {
+          "type": 17,
+          "value": 7500,
+          "name": "치명타 확률 증가"
+        }
+      ]
     }
   ],
   "setEffects": [
