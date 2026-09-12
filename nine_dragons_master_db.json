@@ -828,6 +828,80 @@
           "name": "무기 공격력 % 증가"
         }
       ]
+    },
+    {
+      "itemId": "item-8902-4e4a-919c",
+      "itemName": "자월선의",
+      "slot": "costume",
+      "setId": "set-axn0djxeg-ofvx",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 500,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 77,
+          "value": 20000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 6,
+          "value": 150,
+          "name": "무기 공격력 % 증가"
+        },
+        {
+          "type": 17,
+          "value": 20000,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 41,
+          "value": 20000,
+          "name": "음양혼신 저항력 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-d4a1-4d5c-ab1f",
+      "itemName": "[위광] 황실 곤룡 의상",
+      "slot": "costume",
+      "setId": "set-9ql47ia0k-fe69",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 1,
+          "value": 325000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 30000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 20,
+          "value": 800,
+          "name": "치명타 시 공격력 % 추가"
+        },
+        {
+          "type": 17,
+          "value": 30000,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 81,
+          "value": 30000,
+          "name": "물리 방어력 상승"
+        }
+      ]
     }
   ],
   "setEffects": [
@@ -912,7 +986,7 @@
       "setId": "item-5364-4ec5-adbe",
       "setName": "천운 세트",
       "effects": [
-		{
+        {
           "requiredCount": 1,
           "options": [
             {
@@ -920,34 +994,31 @@
               "value": 15000,
               "name": "생명 최대치 상승"
             }
-			]
-		},
-		{
+          ]
+        },
+        {
           "requiredCount": 2,
           "options": [
-            
             {
               "type": 17,
               "value": 8000,
               "name": "치명타 확률 증가"
             }
-			]
-		},
-		{
+          ]
+        },
+        {
           "requiredCount": 3,
           "options": [
-            
-           {
+            {
               "type": 20,
               "value": 80,
               "name": "치명타 시 공격력 추가"
             }
-			]
-		},
-		{
+          ]
+        },
+        {
           "requiredCount": 4,
           "options": [
-           
             {
               "type": 15,
               "value": 82.5,
@@ -958,12 +1029,11 @@
               "value": 45,
               "name": "무공 재사용/시전시간 감소"
             }
-			]
-		},
+          ]
+        },
         {
           "requiredCount": 5,
-          "options": [ 
-           
+          "options": [
             {
               "type": 41,
               "value": 3000,
@@ -1045,6 +1115,83 @@
               "type": 90,
               "value": 20,
               "name": "모든 오기 % 증가"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "set-axn0djxeg-ofvx",
+      "setName": "자월선의 세트효과",
+      "effects": [
+        {
+          "requiredCount": 1,
+          "options": [
+            {
+              "type": 1,
+              "value": 30000,
+              "name": "생명 최대치 상승"
+            },
+            {
+              "type": 21,
+              "value": 100,
+              "name": "치명타 방어력 % 증가"
+            },
+            {
+              "type": 20,
+              "value": 450,
+              "name": "치명타 시 공격력 % 추가"
+            },
+            {
+              "type": 41,
+              "value": 10,
+              "name": "음양혼신 저항력 증가"
+            },
+            {
+              "type": 43,
+              "value": 10,
+              "name": "다수의 상태이상 발생을 % 확률로 저항"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "set-9ql47ia0k-fe69",
+      "setName": "[위광] 황실 곤룡 의상",
+      "effects": [
+        {
+          "requiredCount": 1,
+          "options": [
+            {
+              "type": 1,
+              "value": 32500,
+              "name": "생명 최대치 상승"
+            },
+            {
+              "type": 22,
+              "value": 1000,
+              "name": "모든 오기 고정치 증가"
+            },
+            {
+              "type": 6,
+              "value": 11000,
+              "name": "무기 공격력 % 증가"
+            },
+            {
+              "type": 39,
+              "value": 10000,
+              "name": "음양혼신 공격력 추가"
+            },
+            {
+              "type": 41,
+              "value": 30000,
+              "name": "음양혼신 저항력 증가"
+            },
+            {
+              "type": 42,
+              "value": 20,
+              "name": "음양혼신 저항력 % 증가"
             }
           ]
         }
