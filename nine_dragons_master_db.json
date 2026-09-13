@@ -944,7 +944,9 @@
           "value": 180,
           "name": "치명타 시 공격력 % 추가"
         }
-      ]
+      ],
+      "wType": "gang",
+      "WeaponOptions": []
     },
     {
       "itemId": "item-d307-4d7d-9672",
