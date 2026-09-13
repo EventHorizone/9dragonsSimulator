@@ -220,6 +220,10 @@
         {
           "type": 31,
           "value": 24
+        },
+        {
+          "type": 33,
+          "value": 24
         }
       ]
     },
@@ -1002,6 +1006,255 @@
         {
           "type": 31,
           "value": 24
+        }
+      ]
+    },
+    {
+      "itemId": "item-68db-4624-a09c",
+      "itemName": "흑룡참영",
+      "slot": "epithet",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 39,
+          "value": 10000,
+          "name": "음양혼신 공격력 추가"
+        },
+        {
+          "type": 20,
+          "value": 500,
+          "name": "치명타 시 공격력 % 추가"
+        },
+        {
+          "type": 6,
+          "value": 200,
+          "name": "무기 공격력 % 증가"
+        },
+        {
+          "type": 41,
+          "value": 10000,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 42,
+          "value": 20,
+          "name": "음양혼신 저항력 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-80db-4044-bffe",
+      "itemName": "도원경",
+      "slot": "epithet",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 20,
+          "value": 150,
+          "name": "치명타 시 공격력 % 추가"
+        },
+        {
+          "type": 21,
+          "value": 100,
+          "name": "치명타 방어력 % 증가"
+        },
+        {
+          "type": 17,
+          "value": 10000,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 1,
+          "value": 30000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 54,
+          "value": 250,
+          "name": "아이템 드랍율 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-b4d2-4491-a8b8",
+      "itemName": "영웅의 피",
+      "slot": "epithet",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 1,
+          "value": 8000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 41,
+          "value": 1000,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 17,
+          "value": 5000,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 20,
+          "value": 50,
+          "name": "치명타 시 공격력 % 추가"
+        },
+        {
+          "type": 6,
+          "value": 50,
+          "name": "무기 공격력 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-66d2-478e-b612",
+      "itemName": "신행",
+      "slot": "epithet",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 58,
+          "value": 80,
+          "name": "제작 성공 확률 % 증가"
+        },
+        {
+          "type": 54,
+          "value": 150,
+          "name": "아이템 드랍율 % 증가"
+        },
+        {
+          "type": 1,
+          "value": 30000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 18000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 20,
+          "value": 200,
+          "name": "치명타 시 공격력 % 추가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-063f-49f4-bf34",
+      "itemName": "절천야차",
+      "slot": "epithet",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 39,
+          "value": 5000,
+          "name": "음양혼신 공격력 추가"
+        },
+        {
+          "type": 17,
+          "value": 20000,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 20,
+          "value": 300,
+          "name": "치명타 시 공격력 % 추가"
+        },
+        {
+          "type": 21,
+          "value": 150,
+          "name": "치명타 방어력 % 증가"
+        },
+        {
+          "type": 98,
+          "value": 180,
+          "name": "무기 최소공격력 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-4c11-4a0b-b2c9",
+      "itemName": "귀혼 별호",
+      "slot": "epithet",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 39,
+          "value": 6000,
+          "name": "음양혼신 공격력 추가"
+        },
+        {
+          "type": 20,
+          "value": 250,
+          "name": "치명타 시 공격력 % 추가"
+        },
+        {
+          "type": 1,
+          "value": 32000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 41,
+          "value": 5000,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 42,
+          "value": 10,
+          "name": "음양혼신 저항력 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-f20b-4302-a44a",
+      "itemName": "충혼",
+      "slot": "epithet",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 58,
+          "value": 80,
+          "name": "제작 성공 확률 % 증가"
+        },
+        {
+          "type": 54,
+          "value": 150,
+          "name": "아이템 드랍율 % 증가"
+        },
+        {
+          "type": 56,
+          "value": 150,
+          "name": "경험치 획득 % 증가"
         }
       ]
     }
