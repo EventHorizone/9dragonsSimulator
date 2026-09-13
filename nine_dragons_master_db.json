@@ -212,7 +212,16 @@
         }
       ],
       "wType": "staff",
-      "WeaponOptions": []
+      "WeaponOptions": [
+        {
+          "type": 13,
+          "value": 40
+        },
+        {
+          "type": 31,
+          "value": 24
+        }
+      ]
     },
     {
       "itemId": "b200db9d-9998-4b77-a890-0d016bda91d1",
