@@ -210,7 +210,9 @@
           "value": 3000,
           "name": "음양혼신 공격력 추가"
         }
-      ]
+      ],
+      "wType": "staff",
+      "WeaponOptions": []
     },
     {
       "itemId": "b200db9d-9998-4b77-a890-0d016bda91d1",
@@ -247,7 +249,9 @@
           "value": 40,
           "name": "무기 공격력 % 증가"
         }
-      ]
+      ],
+      "wType": "staff",
+      "WeaponOptions": []
     },
     {
       "itemId": "item-2091-46bb-a232",
@@ -472,7 +476,9 @@
           "value": 40,
           "name": "무기 공격력 % 증가"
         }
-      ]
+      ],
+      "wType": "fist",
+      "WeaponOptions": []
     },
     {
       "itemId": "item-5766-4719-b26e",
