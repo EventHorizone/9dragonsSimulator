@@ -902,6 +902,43 @@
           "name": "물리 방어력 상승"
         }
       ]
+    },
+    {
+      "itemId": "item-b1d6-4f72-9641",
+      "itemName": "명일 흑혼강",
+      "slot": "weapon",
+      "setId": null,
+      "baseDamageMin": 11575,
+      "baseDamageMax": 14928,
+      "refineDamage": 72934,
+      "refineLevel": 18,
+      "itemOptions": [
+        {
+          "type": 6,
+          "value": 180,
+          "name": "무기 공격력 % 증가"
+        },
+        {
+          "type": 1,
+          "value": 15000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 3,
+          "value": 15000,
+          "name": "내공 최대치 상승"
+        },
+        {
+          "type": 17,
+          "value": 14000,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 20,
+          "value": 180,
+          "name": "치명타 시 공격력 % 추가"
+        }
+      ]
     }
   ],
   "setEffects": [
