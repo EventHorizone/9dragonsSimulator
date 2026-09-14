@@ -1548,6 +1548,80 @@
           "name": "다수의 상태이상 발생을 % 확률로 저항"
         }
       ]
+    },
+    {
+      "itemId": "item-39ee-41a6-be55",
+      "itemName": "현해 흑철린 대",
+      "slot": "armor_gloves",
+      "setId": "set-v9x5qj54h-dv96",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 97,
+          "value": 4500,
+          "name": "대전 시 총 피해량 감소 상쇄"
+        },
+        {
+          "type": 77,
+          "value": 6500,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 88,
+          "value": 60,
+          "name": "물리/기공 피해반사를 % 상쇄"
+        },
+        {
+          "type": 6,
+          "value": 70,
+          "name": "무기 공격력 % 증가"
+        },
+        {
+          "type": 42,
+          "value": 2000,
+          "name": "음양혼신 저항력 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-6e15-4ec3-835a",
+      "itemName": "현해 흑철린 화",
+      "slot": "armor_boots",
+      "setId": "set-v9x5qj54h-dv96",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 96,
+          "value": 150,
+          "name": "이동 속도 % 증가"
+        },
+        {
+          "type": 86,
+          "value": 5000,
+          "name": "물리/기공 회피 상승"
+        },
+        {
+          "type": 6,
+          "value": 50,
+          "name": "무기 공격력 % 증가"
+        },
+        {
+          "type": 41,
+          "value": 2000,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 21,
+          "value": 160,
+          "name": "치명타 방어력 % 증가"
+        }
+      ]
     }
   ],
   "setEffects": [
