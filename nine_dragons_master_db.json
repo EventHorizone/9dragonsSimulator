@@ -2088,96 +2088,52 @@
       ]
     },
     {
-      "setId": "set-v9x5qj54h-dv96",
-      "setName": "현해 세트",
-      "effects": [
-        {
-          "requiredCount": 5,
-          "options": [
-            {
-              "type": 22,
-              "value": 500,
-              "name": "모든 오기 고정치 증가"
-            },
-            {
-              "type": 15,
-              "value": 100,
-              "name": "공격 속도 % 증가"
-            },
-            {
-              "type": 85,
-              "value": 50,
-              "name": "무공 재사용/시전시간 감소"
-            },
-            {
-              "type": 1,
-              "value": 15000,
-              "name": "생명 최대치 상승"
-            },
-            {
-              "type": 41,
-              "value": 2000,
-              "name": "음양혼신 저항력 증가"
-            },
-            {
-              "type": 17,
-              "value": 18000,
-              "name": "치명타 확률 증가"
-            },
-            {
-              "type": 1,
-              "value": 15000,
-              "name": "생명 최대치 상승"
-            },
-            {
-              "type": 20,
-              "value": 50,
-              "name": "치명타 시 공격력 % 추가"
-            },
-            {
-              "type": 42,
-              "value": 2,
-              "name": "음양혼신 저항력 % 증가"
-            },
-            {
-              "type": 1,
-              "value": 15000,
-              "name": "생명 최대치 상승"
-            },
-            {
-              "type": 77,
-              "value": 18000,
-              "name": "물리/기공 공격력 상승"
-            },
-            {
-              "type": 6,
-              "value": 80,
-              "name": "무기 공격력 % 증가"
-            },
-            {
-              "type": 1,
-              "value": 15000,
-              "name": "생명 최대치 상승"
-            },
-            {
-              "type": 20,
-              "value": 80,
-              "name": "치명타 시 공격력 % 추가"
-            },
-            {
-              "type": 41,
-              "value": 3000,
-              "name": "음양혼신 저항력 증가"
-            },
-            {
-              "type": 42,
-              "value": 3,
-              "name": "음양혼신 저항력 % 증가"
-            }
-          ]
-        }
+  "setId": "set-v9x5qj54h-dv96",
+  "setName": "현해 세트",
+  "effects": [
+    {
+      "requiredCount": 1,
+      "options": [
+        { "type": 22, "value": 500, "name": "모든 오기 고정치 증가" },
+        { "type": 15, "value": 100, "name": "공격 속도 % 증가" },
+        { "type": 85, "value": 50, "name": "무공 재사용/시전시간 감소" },
+        { "type": 1, "value": 15000, "name": "생명 최대치 상승" }
+      ]
+    },
+    {
+      "requiredCount": 2,
+      "options": [
+        { "type": 41, "value": 2000, "name": "음양혼신 저항력 증가" },
+        { "type": 17, "value": 18000, "name": "치명타 확률 증가" },
+        { "type": 1, "value": 15000, "name": "생명 최대치 상승" }
+      ]
+    },
+    {
+      "requiredCount": 3,
+      "options": [
+        { "type": 20, "value": 50, "name": "치명타 시 공격력 % 추가" },
+        { "type": 42, "value": 2, "name": "음양혼신 저항력 % 증가" },
+        { "type": 1, "value": 15000, "name": "생명 최대치 상승" }
+      ]
+    },
+    {
+      "requiredCount": 4,
+      "options": [
+        { "type": 77, "value": 18000, "name": "물리/기공 공격력 상승" },
+        { "type": 6, "value": 80, "name": "무기 공격력 % 증가" },
+        { "type": 1, "value": 15000, "name": "생명 최대치 상승" }
+      ]
+    },
+    {
+      "requiredCount": 5,
+      "options": [
+        { "type": 20, "value": 80, "name": "치명타 시 공격력 % 추가" },
+        { "type": 41, "value": 3000, "name": "음양혼신 저항력 증가" },
+        { "type": 42, "value": 3, "name": "음양혼신 저항력 % 증가" }
       ]
     }
+  ]
+}
   ],
   "decSetEffects": [
     {
