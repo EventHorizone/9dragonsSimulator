@@ -2322,7 +2322,7 @@
     {
       "decSetId": "dec-set-armor-002",
       "decSetName": "귀흑혈적 철벽 조합",
-      "targetPart": "",
+      "targetPart": "armor_total",
       "recipe": [
         "귀안거울",
         "흑염향로",
