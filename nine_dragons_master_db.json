@@ -2322,7 +2322,7 @@
     {
       "decSetId": "dec-set-armor-002",
       "decSetName": "귀흑혈적 철벽 조합",
-      "targetPart": "armor_total",
+      "targetPart": "",
       "recipe": [
         "귀안거울",
         "흑염향로",
@@ -2331,14 +2331,14 @@
       ],
       "setOptions": [
         {
-          "type": 80,
+          "type": 100,
           "value": 10,
-          "name": "물리/기공 피해 % 감소"
+          "name": "물리/기공 절대 방어 % 증가"
         },
         {
-          "type": 82,
+          "type": 94,
           "value": 6000,
-          "name": "물리/기공 방어력 증가"
+          "name": "총 피해 감소(대전 시)"
         }
       ]
     },
