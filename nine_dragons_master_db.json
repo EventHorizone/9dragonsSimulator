@@ -1886,7 +1886,8 @@
           "value": 30000,
           "name": "혼의 공격력 추가"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-a08b-4f82-8619",
@@ -1923,7 +1924,8 @@
           "value": 20,
           "name": "음의 공격력 % 추가"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-8aa5-4e66-bd5a",
@@ -2144,6 +2146,353 @@
           "type": 42,
           "value": 10,
           "name": "음양혼신 저항력 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-c1d4-42f9-a97f",
+      "itemName": "용안의 반지",
+      "slot": "relic",
+      "setId": "set-389mnw9rj-kawh",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 150,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 1,
+          "value": 20000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 10000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 20,
+          "value": 150,
+          "name": "치명타 시 공격력 % 추가"
+        },
+        {
+          "type": 6,
+          "value": 100,
+          "name": "무기 공격력 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-8541-4da7-91f9",
+      "itemName": "흑룡심주",
+      "slot": "relic",
+      "setId": "set-389mnw9rj-kawh",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 150,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 1,
+          "value": 20000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 21,
+          "value": 120,
+          "name": "치명타 방어력 % 증가"
+        },
+        {
+          "type": 80,
+          "value": 5,
+          "name": "물리/기공 피해 % 감소"
+        }
+      ]
+    },
+    {
+      "itemId": "item-d8aa-4004-85a6",
+      "itemName": "흑룡호심항",
+      "slot": "relic",
+      "setId": "set-389mnw9rj-kawh",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 150,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 1,
+          "value": 20000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 41,
+          "value": 5000,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 42,
+          "value": 5,
+          "name": "음양혼신 저항력 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-0aee-4a82-8deb",
+      "itemName": "흑룡인장(음)",
+      "slot": "relic",
+      "setId": "set-389mnw9rj-kawh",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 150,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 1,
+          "value": 20000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 23,
+          "value": 10000,
+          "name": "음의 공격력 추가"
+        },
+        {
+          "type": 31,
+          "value": 10,
+          "name": "음의 공격력 % 추가"
+        }
+      ],
+      "attachedDecorations": []
+    },
+    {
+      "itemId": "item-5b88-4632-a23b",
+      "itemName": "흑룡인장(양)",
+      "slot": "relic",
+      "setId": "set-389mnw9rj-kawh",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 150,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 1,
+          "value": 20000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 10000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 24,
+          "value": 10000,
+          "name": "양의 공격력 추가"
+        },
+        {
+          "type": 32,
+          "value": 10,
+          "name": "양의 공격력 % 추가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-a8aa-4cab-b614",
+      "itemName": "흑룡인장(혼)",
+      "slot": "relic",
+      "setId": "set-389mnw9rj-kawh",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 150,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 1,
+          "value": 20000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 10000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 25,
+          "value": 10000,
+          "name": "혼의 공격력 추가"
+        },
+        {
+          "type": 33,
+          "value": 10,
+          "name": "혼의 공격력 % 추가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-43a3-42d4-b029",
+      "itemName": "흑룡인장(신)",
+      "slot": "relic",
+      "setId": "set-389mnw9rj-kawh",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 150,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 1,
+          "value": 20000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 10000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 26,
+          "value": 10000,
+          "name": "신의 공격력 추가"
+        },
+        {
+          "type": 34,
+          "value": 10,
+          "name": "신의 공격력 % 추가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-eaf9-4e06-bb6c",
+      "itemName": "흑룡보주",
+      "slot": "relic",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 250,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 23,
+          "value": 10000,
+          "name": "음의 공격력 추가"
+        },
+        {
+          "type": 25,
+          "value": 10000,
+          "name": "혼의 공격력 추가"
+        }
+      ],
+      "attachedDecorations": []
+    },
+    {
+      "itemId": "item-ecd6-4210-835e",
+      "itemName": "깨달음의 금강저",
+      "slot": "relic",
+      "setId": "set-9ivtu8927-3qs9",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 1,
+          "value": 20000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 20,
+          "value": 350,
+          "name": "치명타 시 공격력 % 추가"
+        },
+        {
+          "type": 17,
+          "value": 25000,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 39,
+          "value": 2000,
+          "name": "음양혼신 공격력 추가"
+        },
+        {
+          "type": 41,
+          "value": 5000,
+          "name": "음양혼신 저항력 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-c8a1-40ee-acfd",
+      "itemName": "승천의 금강저",
+      "slot": "relic",
+      "setId": "set-02afbfr7o-725j",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 77,
+          "value": 30000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 20,
+          "value": 550,
+          "name": "치명타 시 공격력 % 추가"
+        },
+        {
+          "type": 21,
+          "value": 300,
+          "name": "치명타 방어력 % 증가"
+        },
+        {
+          "type": 41,
+          "value": 10000,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 39,
+          "value": 10000,
+          "name": "음양혼신 공격력 추가"
         }
       ]
     }
@@ -2869,6 +3218,94 @@
               "type": 56,
               "value": 200,
               "name": "경험치 획득 % 증가"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "set-389mnw9rj-kawh",
+      "setName": "일반 성채 세트",
+      "effects": [
+        {
+          "requiredCount": 4,
+          "options": [
+            {
+              "type": 1,
+              "value": 20000,
+              "name": "생명 최대치 상승"
+            },
+            {
+              "type": 54,
+              "value": 100,
+              "name": "아이템 드랍율 % 증가"
+            },
+            {
+              "type": 56,
+              "value": 100,
+              "name": "경험치 획득 % 증가"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "set-9ivtu8927-3qs9",
+      "setName": "깨달음의 금강저 세트",
+      "effects": [
+        {
+          "requiredCount": 1,
+          "options": [
+            {
+              "type": 1,
+              "value": 20000,
+              "name": "생명 최대치 상승"
+            },
+            {
+              "type": 77,
+              "value": 15000,
+              "name": "물리/기공 공격력 상승"
+            },
+            {
+              "type": 6,
+              "value": 100,
+              "name": "무기 공격력 % 증가"
+            },
+            {
+              "type": 22,
+              "value": 400,
+              "name": "모든 오기 고정치 증가"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "set-02afbfr7o-725j",
+      "setName": "승천의 금강저 세트",
+      "effects": [
+        {
+          "requiredCount": 1,
+          "options": [
+            {
+              "type": 1,
+              "value": 30000,
+              "name": "생명 최대치 상승"
+            },
+            {
+              "type": 77,
+              "value": 25000,
+              "name": "물리/기공 공격력 상승"
+            },
+            {
+              "type": 6,
+              "value": 150,
+              "name": "무기 공격력 % 증가"
+            },
+            {
+              "type": 22,
+              "value": 500,
+              "name": "모든 오기 고정치 증가"
             }
           ]
         }
