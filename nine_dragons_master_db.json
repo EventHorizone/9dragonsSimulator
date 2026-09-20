@@ -1860,6 +1860,292 @@
         }
       ],
       "attachedDecorations": []
+    },
+    {
+      "itemId": "item-239f-4b7e-bd53",
+      "itemName": "[빙정] 빙룡 보주",
+      "slot": "relic",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 800,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 23,
+          "value": 30000,
+          "name": "음의 공격력 추가"
+        },
+        {
+          "type": 25,
+          "value": 30000,
+          "name": "혼의 공격력 추가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-a08b-4f82-8619",
+      "itemName": "[진] 흑룡인장(음)",
+      "slot": "relic",
+      "setId": "set-pced2doow-9msy",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 250,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 1,
+          "value": 30000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 15000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 23,
+          "value": 20000,
+          "name": "음의 공격력 추가"
+        },
+        {
+          "type": 31,
+          "value": 20,
+          "name": "음의 공격력 % 추가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-8aa5-4e66-bd5a",
+      "itemName": "[진] 흑룡인장(양)",
+      "slot": "relic",
+      "setId": "set-pced2doow-9msy",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 250,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 1,
+          "value": 30000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 15000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 24,
+          "value": 20000,
+          "name": "양의 공격력 추가"
+        },
+        {
+          "type": 32,
+          "value": 20,
+          "name": "양의 공격력 % 추가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-fc5d-4d5b-8783",
+      "itemName": "[진] 흑룡인장(혼)",
+      "slot": "relic",
+      "setId": "set-pced2doow-9msy",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 250,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 1,
+          "value": 30000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 15000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 25,
+          "value": 20000,
+          "name": "혼의 공격력 추가"
+        },
+        {
+          "type": 33,
+          "value": 20,
+          "name": "혼의 공격력 % 추가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-93fa-4037-ad20",
+      "itemName": "[진] 흑룡인장(신)",
+      "slot": "relic",
+      "setId": "set-pced2doow-9msy",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 250,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 1,
+          "value": 30000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 15000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 26,
+          "value": 20000,
+          "name": "신의 공격력 추가"
+        },
+        {
+          "type": 34,
+          "value": 20,
+          "name": "신의 공격력 % 추가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-276b-45ef-b33e",
+      "itemName": "[진] 용안의 반지",
+      "slot": "relic",
+      "setId": "set-pced2doow-9msy",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 250,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 1,
+          "value": 30000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 15000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 20,
+          "value": 250,
+          "name": "치명타 시 공격력 % 추가"
+        },
+        {
+          "type": 6,
+          "value": 200,
+          "name": "무기 공격력 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-1ac8-4105-a608",
+      "itemName": "[진] 흑룡심주",
+      "slot": "relic",
+      "setId": "set-pced2doow-9msy",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 250,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 1,
+          "value": 30000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 15000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 21,
+          "value": 250,
+          "name": "치명타 방어력 % 증가"
+        },
+        {
+          "type": 80,
+          "value": 10,
+          "name": "물리/기공 피해 % 감소"
+        }
+      ]
+    },
+    {
+      "itemId": "item-9eb8-4960-9f95",
+      "itemName": "[진] 흑룡호심항",
+      "slot": "relic",
+      "setId": "set-pced2doow-9msy",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 22,
+          "value": 250,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 1,
+          "value": 30000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 15000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 41,
+          "value": 10000,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 42,
+          "value": 10,
+          "name": "음양혼신 저항력 % 증가"
+        }
+      ]
     }
   ],
   "setEffects": [
@@ -2557,6 +2843,32 @@
               "type": 17,
               "value": 15000,
               "name": "치명타 확률 증가"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "set-pced2doow-9msy",
+      "setName": "[진]  성채 세트",
+      "effects": [
+        {
+          "requiredCount": 4,
+          "options": [
+            {
+              "type": 1,
+              "value": 30000,
+              "name": "생명 최대치 상승"
+            },
+            {
+              "type": 54,
+              "value": 200,
+              "name": "아이템 드랍율 % 증가"
+            },
+            {
+              "type": 56,
+              "value": 200,
+              "name": "경험치 획득 % 증가"
             }
           ]
         }
