@@ -106,7 +106,8 @@
           "value": 400,
           "name": "치명타 방어력 증가"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "0798a531-1445-4b28-ba3a-4881199e57de",
@@ -142,7 +143,8 @@
           "value": 35,
           "name": "다수의 상태이상 발생을 % 확률로 저항"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "431a1787-b5a2-4904-8643-fa2cdda5a83e",
@@ -571,7 +573,8 @@
           "value": 3000,
           "name": "음의 공격력 추가"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-25ba-4182-ad5c",
@@ -608,7 +611,8 @@
           "value": 20,
           "name": "물리/기공 균형 상승"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-f41f-410a-a621",
@@ -645,7 +649,8 @@
           "value": 150,
           "name": "치명타 방어력 % 증가"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-9c24-4da4-b9cf",
@@ -682,7 +687,8 @@
           "value": 7500,
           "name": "치명타 확률 증가"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-401b-45f6-ab88",
@@ -719,7 +725,8 @@
           "value": 17,
           "name": "다수의 상태이상 발생을 % 확률로 저항"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-3283-4119-898e",
@@ -751,7 +758,8 @@
           "value": 5000,
           "name": "생명 최대치 상승"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-1ce0-4914-98a4",
@@ -783,7 +791,8 @@
           "value": 5000,
           "name": "생명 최대치 상승"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-c50e-4185-a9a6",
@@ -815,7 +824,8 @@
           "value": 40,
           "name": "무기 공격력 % 증가"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-1e98-41c1-a086",
@@ -847,7 +857,8 @@
           "value": 40,
           "name": "무기 공격력 % 증가"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-8902-4e4a-919c",
@@ -884,7 +895,8 @@
           "value": 20000,
           "name": "음양혼신 저항력 증가"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-d4a1-4d5c-ab1f",
@@ -1409,37 +1421,27 @@
     },
     {
       "itemId": "item-044c-4a86-9321",
-      "itemName": "극 화국패",
-      "slot": "cash_pocket",
-      "setId": "set-h074ssbzu-p8y3",
+      "itemName": "묵룡 금패",
+      "slot": "relic",
+      "setId": "set-7vgq3eei2-t10m",
       "baseDamageMin": 0,
       "baseDamageMax": 0,
       "refineDamage": 0,
       "refineLevel": 0,
       "itemOptions": [
         {
-          "type": 1,
-          "value": 30000,
-          "name": "생명 최대치 상승"
+          "type": 22,
+          "value": 1000,
+          "name": "모든 오기 고정치 증가"
         },
         {
-          "type": 20,
-          "value": 100,
-          "name": "치명타 시 공격력 % 추가"
-        },
-        {
-          "type": 41,
-          "value": 5000,
-          "name": "음양혼신 저항력 증가"
-        },
-        {
-          "type": 77,
-          "value": 8000,
-          "name": "물리/기공 공격력 상승"
+          "type": 39,
+          "value": 15000,
+          "name": "음양혼신 공격력 추가"
         },
         {
           "type": 43,
-          "value": 20,
+          "value": 25,
           "name": "다수의 상태이상 발생을 % 확률로 저항"
         }
       ]
@@ -1479,7 +1481,8 @@
           "value": 80,
           "name": "공격력을 생명으로 흡수"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-b62c-4c3c-8695",
@@ -1663,6 +1666,265 @@
         }
       ],
       "attachedDecorations": []
+    },
+    {
+      "itemId": "item-c05e-47d2-aa56",
+      "itemName": "극 화국패",
+      "slot": "cash_pocket",
+      "setId": "set-uwhup47gy-7yie",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 1,
+          "value": 30000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 20,
+          "value": 100,
+          "name": "치명타 시 공격력 % 추가"
+        },
+        {
+          "type": 41,
+          "value": 5000,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 77,
+          "value": 8000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 43,
+          "value": 20,
+          "name": "다수의 상태이상 발생을 % 확률로 저항"
+        }
+      ]
+    },
+    {
+      "itemId": "item-d98c-47c9-87a2",
+      "itemName": "묵룡 녹패",
+      "slot": "relic",
+      "setId": "set-7vgq3eei2-t10m",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 1,
+          "value": 30000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 17,
+          "value": 15000,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 21,
+          "value": 300,
+          "name": "치명타 방어력 % 증가"
+        },
+        {
+          "type": 41,
+          "value": 20000,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 42,
+          "value": 10,
+          "name": "음양혼신 저항력 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-33b2-461e-9c9e",
+      "itemName": "묵룡 흑패",
+      "slot": "relic",
+      "setId": "set-7vgq3eei2-t10m",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 20,
+          "value": 300,
+          "name": "치명타 시 공격력 % 추가"
+        },
+        {
+          "type": 77,
+          "value": 25000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 110,
+          "value": 150,
+          "name": "무기 공격력 증가"
+        },
+        {
+          "type": 61,
+          "value": 40,
+          "name": "공격력을 생명으로 흡수"
+        },
+        {
+          "type": 17,
+          "value": 15000,
+          "name": "치명타 확률 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-4575-468a-8225",
+      "itemName": "해남파 검수 [진]",
+      "slot": "relic",
+      "setId": "set-2qf20u6yw-auyu",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 20,
+          "value": 150,
+          "name": "치명타 시 공격력 % 추가"
+        },
+        {
+          "type": 41,
+          "value": 5000,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 1,
+          "value": 32500,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 24000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 17,
+          "value": 17500,
+          "name": "치명타 확률 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-582b-4bd1-9d3f",
+      "itemName": "해남파 신패 [진]",
+      "slot": "relic",
+      "setId": "set-2qf20u6yw-auyu",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 6,
+          "value": 150,
+          "name": "무기 공격력 % 증가"
+        },
+        {
+          "type": 43,
+          "value": 25,
+          "name": "다수의 상태이상 발생을 % 확률로 저항"
+        },
+        {
+          "type": 17,
+          "value": 17500,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 1,
+          "value": 32500,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 21,
+          "value": 300,
+          "name": "치명타 방어력 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-02a3-4c5f-a7fa",
+      "itemName": "사자 행등 [진]",
+      "slot": "relic",
+      "setId": "set-ktci5ujhh-fxqd",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 6,
+          "value": 200,
+          "name": "무기 공격력 % 증가"
+        },
+        {
+          "type": 22,
+          "value": 900,
+          "name": "모든 오기 고정치 증가"
+        },
+        {
+          "type": 17,
+          "value": 20000,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 61,
+          "value": 90,
+          "name": "공격력을 생명으로 흡수"
+        },
+        {
+          "type": 21,
+          "value": 400,
+          "name": "치명타 방어력 % 증가"
+        }
+      ]
+    },
+    {
+      "itemId": "item-48aa-4fa9-88af",
+      "itemName": "사자 부패 [진]",
+      "slot": "relic",
+      "setId": "set-ktci5ujhh-fxqd",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 20,
+          "value": 180,
+          "name": "치명타 시 공격력 % 추가"
+        },
+        {
+          "type": 41,
+          "value": 3000,
+          "name": "음양혼신 저항력 증가"
+        },
+        {
+          "type": 1,
+          "value": 32500,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 25000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 43,
+          "value": 35,
+          "name": "다수의 상태이상 발생을 % 확률로 저항"
+        }
+      ]
     }
   ],
   "setEffects": [
@@ -2197,6 +2459,210 @@
               "type": 42,
               "value": 3,
               "name": "음양혼신 저항력 % 증가"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "set-uwhup47gy-7yie",
+      "setName": "극 화국 세트",
+      "effects": [
+        {
+          "requiredCount": 2,
+          "options": [
+            {
+              "type": 22,
+              "value": 800,
+              "name": "모든 오기 고정치 증가"
+            },
+            {
+              "type": 77,
+              "value": 12000,
+              "name": "물리/기공 공격력 상승"
+            },
+            {
+              "type": 20,
+              "value": 100,
+              "name": "치명타 시 공격력 % 추가"
+            },
+            {
+              "type": 39,
+              "value": 7500,
+              "name": "음양혼신 공격력 추가"
+            },
+            {
+              "type": 41,
+              "value": 10000,
+              "name": "음양혼신 저항력 증가"
+            },
+            {
+              "type": 6,
+              "value": 120,
+              "name": "무기 공격력 % 증가"
+            },
+            {
+              "type": 54,
+              "value": 100,
+              "name": "아이템 드랍율 % 증가"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "set-7vgq3eei2-t10m",
+      "setName": "묵룡 세트",
+      "effects": [
+        {
+          "requiredCount": 2,
+          "options": [
+            {
+              "type": 77,
+              "value": 15000,
+              "name": "물리/기공 공격력 상승"
+            },
+            {
+              "type": 6,
+              "value": 150,
+              "name": "무기 공격력 % 증가"
+            },
+            {
+              "type": 17,
+              "value": 15000,
+              "name": "치명타 확률 증가"
+            }
+          ]
+        },
+        {
+          "requiredCount": 3,
+          "options": [
+            {
+              "type": 31,
+              "value": 20,
+              "name": "음의 공격력 % 추가"
+            },
+            {
+              "type": 32,
+              "value": 20,
+              "name": "양의 공격력 % 추가"
+            },
+            {
+              "type": 33,
+              "value": 20,
+              "name": "혼의 공격력 % 추가"
+            },
+            {
+              "type": 34,
+              "value": 20,
+              "name": "신의 공격력 % 추가"
+            },
+            {
+              "type": 20,
+              "value": 250,
+              "name": "치명타 시 공격력 % 추가"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "set-2qf20u6yw-auyu",
+      "setName": "해남파 세트",
+      "effects": [
+        {
+          "requiredCount": 1,
+          "options": [
+            {
+              "type": 21,
+              "value": 150,
+              "name": "치명타 방어력 % 증가"
+            },
+            {
+              "type": 77,
+              "value": 24000,
+              "name": "물리/기공 공격력 상승"
+            },
+            {
+              "type": 61,
+              "value": 90,
+              "name": "공격력을 생명으로 흡수"
+            }
+          ]
+        },
+        {
+          "requiredCount": 2,
+          "options": [
+            {
+              "type": 39,
+              "value": 15000,
+              "name": "음양혼신 공격력 추가"
+            },
+            {
+              "type": 1,
+              "value": 32500,
+              "name": "생명 최대치 상승"
+            },
+            {
+              "type": 6,
+              "value": 200,
+              "name": "무기 공격력 % 증가"
+            },
+            {
+              "type": 22,
+              "value": 800,
+              "name": "모든 오기 고정치 증가"
+            },
+            {
+              "type": 41,
+              "value": 10000,
+              "name": "음양혼신 저항력 증가"
+            },
+            {
+              "type": 20,
+              "value": 400,
+              "name": "치명타 시 공격력 % 추가"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "set-ktci5ujhh-fxqd",
+      "setName": "사자 세트 [진]",
+      "effects": [
+        {
+          "requiredCount": 1,
+          "options": [
+            {
+              "type": 1,
+              "value": 32500,
+              "name": "생명 최대치 상승"
+            },
+            {
+              "type": 77,
+              "value": 15000,
+              "name": "물리/기공 공격력 상승"
+            }
+          ]
+        },
+        {
+          "requiredCount": 2,
+          "options": [
+            {
+              "type": 39,
+              "value": 15000,
+              "name": "음양혼신 공격력 추가"
+            },
+            {
+              "type": 20,
+              "value": 170,
+              "name": "치명타 시 공격력 % 추가"
+            },
+            {
+              "type": 17,
+              "value": 15000,
+              "name": "치명타 확률 증가"
             }
           ]
         }
