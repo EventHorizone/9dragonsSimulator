@@ -70,7 +70,8 @@
           "value": 10000,
           "name": "음양혼신 저항력 증가"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "431a1787-b5a2-4904-8643-fa2cdda5a83e",
@@ -2457,7 +2458,8 @@
           "value": 5000,
           "name": "음양혼신 저항력 증가"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-c8a1-40ee-acfd",
@@ -2494,9 +2496,410 @@
           "value": 10000,
           "name": "음양혼신 공격력 추가"
         }
+      ],
+      "attachedDecorations": []
+    },
+    {
+      "itemId": "item-365b-45fb-8d5e",
+      "itemName": "흑룡 반지 [극]",
+      "slot": "relic",
+      "setId": "set-faat33gef-4hrr",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 1,
+          "value": 30000,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 77,
+          "value": 15000,
+          "name": "물리/기공 공격력 상승"
+        },
+        {
+          "type": 21,
+          "value": 350,
+          "name": "치명타 방어력 % 증가"
+        },
+        {
+          "type": 17,
+          "value": 22000,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 41,
+          "value": 30000,
+          "name": "음양혼신 저항력 증가"
+        }
+      ],
+      "attachedDecorations": []
+    },
+    {
+      "itemId": "item-b0dd-49c8-bb33",
+      "itemName": "[빙정] 빙룡 비늘 팔찌",
+      "slot": "relic",
+      "setId": "set-893ia3fw9-w2md",
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 1,
+          "value": 32500,
+          "name": "생명 최대치 상승"
+        },
+        {
+          "type": 17,
+          "value": 30000,
+          "name": "치명타 확률 증가"
+        },
+        {
+          "type": 21,
+          "value": 450,
+          "name": "치명타 방어력 % 증가"
+        },
+        {
+          "type": 94,
+          "value": 8000,
+          "name": "대전 시 피해 감소"
+        },
+        {
+          "type": 41,
+          "value": 8000,
+          "name": "음양혼신 저항력 증가"
+        }
+      ],
+      "attachedDecorations": []
+    },
+    {
+      "itemId": "item-5937-49d5-ac6b",
+      "itemName": "조화주",
+      "slot": "decoration",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 39,
+          "value": 2000,
+          "name": "음양혼신 공격력 추가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 20,
+          "value": 45,
+          "name": "치명타 시 공격력 % 추가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 20,
+          "value": 50,
+          "name": "치명타 시 공격력 % 추가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 41,
+          "value": 1000,
+          "name": "음양혼신 저항력 증가",
+          "targetPart": "clothes"
+        }
       ]
     },
     {
+      "itemId": "item-1f4b-47db-8d2a",
+      "itemName": "아라한의 연화종",
+      "slot": "decoration",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 39,
+          "value": 500,
+          "name": "음양혼신 공격력 추가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 41,
+          "value": 700,
+          "name": "음양혼신 저항력 증가",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+    {
+      "itemId": "item-251c-44bd-90f1",
+      "itemName": "봉황도(완)",
+      "slot": "decoration",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 39,
+          "value": 500,
+          "name": "음양혼신 공격력 추가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 41,
+          "value": 700,
+          "name": "음양혼신 저항력 증가",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+    {
+      "itemId": "item-3bad-45be-9957",
+      "itemName": "아라한 연화부",
+      "slot": "decoration",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 39,
+          "value": 500,
+          "name": "음양혼신 공격력 추가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 20,
+          "value": 28,
+          "name": "치명타 시 공격력 % 추가",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+    {
+      "itemId": "item-4be5-433e-8d4b",
+      "itemName": "아라한의 금마향로",
+      "slot": "decoration",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 1,
+          "value": 1000,
+          "name": "생명 최대치 상승",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 20,
+          "value": 28,
+          "name": "치명타 시 공격력 % 추가",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+    {
+      "itemId": "item-ad06-4750-a872",
+      "itemName": "아라한의 연향로",
+      "slot": "decoration",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 39,
+          "value": 500,
+          "name": "음양혼신 공격력 추가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 1,
+          "value": 1000,
+          "name": "생명 최대치 상승",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+    {
+      "itemId": "item-b494-428a-bb91",
+      "itemName": "진인의 연화부 (금)",
+      "slot": "decoration",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 39,
+          "value": 1000,
+          "name": "음양혼신 공격력 추가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 20,
+          "value": 60,
+          "name": "치명타 시 공격력 % 추가",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+    {
+      "itemId": "item-f550-4a23-9c36",
+      "itemName": "진인의 연화종 (금)",
+      "slot": "decoration",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 39,
+          "value": 1000,
+          "name": "음양혼신 공격력 추가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 41,
+          "value": 2000,
+          "name": "음양혼신 저항력 증가",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+    {
+      "itemId": "item-a7a0-4a25-8f34",
+      "itemName": "진인의 연향로 (금)",
+      "slot": "decoration",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 39,
+          "value": 1000,
+          "name": "음양혼신 공격력 추가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 1,
+          "value": 3000,
+          "name": "생명 최대치 상승",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+    {
+      "itemId": "item-04df-41be-913d",
+      "itemName": "진인의 연마종 (금)",
+      "slot": "decoration",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 20,
+          "value": 60,
+          "name": "치명타 시 공격력 % 추가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 41,
+          "value": 2000,
+          "name": "음양혼신 저항력 증가",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+    {
+      "itemId": "item-1248-476e-bbd4",
+      "itemName": "수호부(영)",
+      "slot": "decoration",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 20,
+          "value": 20,
+          "name": "치명타 시 공격력 % 추가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 17,
+          "value": 2000,
+          "name": "치명타 확률 증가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 56,
+          "value": 5,
+          "name": "경험치 획득 % 증가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 54,
+          "value": 2,
+          "name": "아이템 드랍율 % 증가",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+    {
+      "itemId": "item-1d3f-40fb-813e",
+      "itemName": "진 수호부(영)",
+      "slot": "decoration",
+      "setId": null,
+      "baseDamageMin": 0,
+      "baseDamageMax": 0,
+      "refineDamage": 0,
+      "refineLevel": 0,
+      "itemOptions": [
+        {
+          "type": 20,
+          "value": 30,
+          "name": "치명타 시 공격력 % 추가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 17,
+          "value": 3000,
+          "name": "치명타 확률 증가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 56,
+          "value": 7,
+          "name": "경험치 획득 % 증가",
+          "targetPart": "clothes"
+        },
+        {
+          "type": 54,
+          "value": 5,
+          "name": "아이템 드랍율 % 증가",
+          "targetPart": "clothes"
+        }
+      ]
+    },
+	 {
       "itemId": "item-b291-4193-b522",
       "itemName": "(진) 봄의 기운 천왕부",
       "slot": "decoration",
@@ -3342,6 +3745,68 @@
               "type": 22,
               "value": 500,
               "name": "모든 오기 고정치 증가"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "set-faat33gef-4hrr",
+      "setName": "흑룡 반지 [극] 세트",
+      "effects": [
+        {
+          "requiredCount": 1,
+          "options": [
+            {
+              "type": 20,
+              "value": 220,
+              "name": "치명타 시 공격력 % 추가"
+            },
+            {
+              "type": 43,
+              "value": 25,
+              "name": "다수의 상태이상 발생을 % 확률로 저항"
+            },
+            {
+              "type": 41,
+              "value": 20000,
+              "name": "음양혼신 저항력 증가"
+            },
+            {
+              "type": 6,
+              "value": 70,
+              "name": "무기 공격력 % 증가"
+            },
+            {
+              "type": 1,
+              "value": 30000,
+              "name": "생명 최대치 상승"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "setId": "set-893ia3fw9-w2md",
+      "setName": "[빙정] 빙룡 비늘 팔찌 세트",
+      "effects": [
+        {
+          "requiredCount": 1,
+          "options": [
+            {
+              "type": 43,
+              "value": 40,
+              "name": "다수의 상태이상 발생을 % 확률로 저항"
+            },
+            {
+              "type": 82,
+              "value": 30000,
+              "name": "물리/기공 방어력 증가"
+            },
+            {
+              "type": 61,
+              "value": 40,
+              "name": "공격력을 생명으로 흡수"
             }
           ]
         }
