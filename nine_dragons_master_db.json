@@ -73,80 +73,6 @@
       ]
     },
     {
-      "itemId": "8e990559-70a6-4de8-8b25-5f1c8f37b813",
-      "itemName": "사자 행등 [진]",
-      "slot": "relic",
-      "setId": "1a39ec8d-fa01-49ec-943a-f4c1b8b81e9d",
-      "baseDamageMin": 0,
-      "baseDamageMax": 0,
-      "refineDamage": 0,
-      "itemOptions": [
-        {
-          "type": 6,
-          "value": 200,
-          "name": "무기 공격력 % 증가"
-        },
-        {
-          "type": 22,
-          "value": 900,
-          "name": "모든 오기 고정치 증가"
-        },
-        {
-          "type": 17,
-          "value": 20000,
-          "name": "치명타 확률 증가"
-        },
-        {
-          "type": 61,
-          "value": 90,
-          "name": "공격력 생명 흡수"
-        },
-        {
-          "type": 21,
-          "value": 400,
-          "name": "치명타 방어력 증가"
-        }
-      ],
-      "attachedDecorations": []
-    },
-    {
-      "itemId": "0798a531-1445-4b28-ba3a-4881199e57de",
-      "itemName": "사자 부채 [진]",
-      "slot": "relic",
-      "setId": "1a39ec8d-fa01-49ec-943a-f4c1b8b81e9d",
-      "baseDamageMin": 0,
-      "baseDamageMax": 0,
-      "refineDamage": 0,
-      "itemOptions": [
-        {
-          "type": 20,
-          "value": 180,
-          "name": "치명타 시 공격력 추가"
-        },
-        {
-          "type": 41,
-          "value": 3000,
-          "name": "음양혼신 저항력 증가"
-        },
-        {
-          "type": 1,
-          "value": 32500,
-          "name": "생명 최대치 상승"
-        },
-        {
-          "type": 77,
-          "value": 25000,
-          "name": "물리/기공 공격력 상승"
-        },
-        {
-          "type": 43,
-          "value": 35,
-          "name": "다수의 상태이상 발생을 % 확률로 저항"
-        }
-      ],
-      "attachedDecorations": []
-    },
-    {
       "itemId": "431a1787-b5a2-4904-8643-fa2cdda5a83e",
       "itemName": "[6성] 자령귀모",
       "slot": "guardian",
@@ -266,7 +192,8 @@
         }
       ],
       "wType": "staff",
-      "WeaponOptions": []
+      "WeaponOptions": [],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-2091-46bb-a232",
@@ -493,7 +420,8 @@
         }
       ],
       "wType": "fist",
-      "WeaponOptions": []
+      "WeaponOptions": [],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-5766-4719-b26e",
@@ -1444,7 +1372,8 @@
           "value": 25,
           "name": "다수의 상태이상 발생을 % 확률로 저항"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-ecd3-4c15-9fea",
@@ -1702,7 +1631,8 @@
           "value": 20,
           "name": "다수의 상태이상 발생을 % 확률로 저항"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-d98c-47c9-87a2",
@@ -1739,7 +1669,8 @@
           "value": 10,
           "name": "음양혼신 저항력 % 증가"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-33b2-461e-9c9e",
@@ -1813,7 +1744,8 @@
           "value": 17500,
           "name": "치명타 확률 증가"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-582b-4bd1-9d3f",
@@ -1850,7 +1782,8 @@
           "value": 300,
           "name": "치명타 방어력 % 증가"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
       "itemId": "item-02a3-4c5f-a7fa",
@@ -1887,11 +1820,12 @@
           "value": 400,
           "name": "치명타 방어력 % 증가"
         }
-      ]
+      ],
+      "attachedDecorations": []
     },
     {
-      "itemId": "item-48aa-4fa9-88af",
-      "itemName": "사자 부패 [진]",
+      "itemId": "item-495c-4c28-9e94",
+      "itemName": "사자 부채 [진]",
       "slot": "relic",
       "setId": "set-ktci5ujhh-fxqd",
       "baseDamageMin": 0,
@@ -1924,7 +1858,8 @@
           "value": 35,
           "name": "다수의 상태이상 발생을 % 확률로 저항"
         }
-      ]
+      ],
+      "attachedDecorations": []
     }
   ],
   "setEffects": [
@@ -1959,47 +1894,6 @@
               "type": 6,
               "value": 200,
               "name": "무기 공격력 % 증가"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "setId": "1a39ec8d-fa01-49ec-943a-f4c1b8b81e9d",
-      "setName": "사자 [진] 세트",
-      "effects": [
-        {
-          "requiredCount": 1,
-          "options": [
-            {
-              "type": 1,
-              "value": 32500,
-              "name": "생명 최대치 상승"
-            },
-            {
-              "type": 77,
-              "value": 15000,
-              "name": "물리/기공 공격력 상승"
-            }
-          ]
-        },
-        {
-          "requiredCount": 2,
-          "options": [
-            {
-              "type": 39,
-              "value": 15000,
-              "name": "음양혼신 공격력 추가"
-            },
-            {
-              "type": 20,
-              "value": 170,
-              "name": "치명타 시 공격력 추가"
-            },
-            {
-              "type": 17,
-              "value": 15000,
-              "name": "치명타 확률 증가"
             }
           ]
         }
