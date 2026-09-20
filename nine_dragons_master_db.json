@@ -2589,13 +2589,13 @@
           "type": 39,
           "value": 2000,
           "name": "음양혼신 공격력 추가",
-          "targetPart": "clothes"
+          "targetPart": "weapon"
         },
         {
           "type": 20,
           "value": 45,
           "name": "치명타 시 공격력 % 추가",
-          "targetPart": "clothes"
+          "targetPart": "weapon"
         },
         {
           "type": 20,
@@ -2899,7 +2899,7 @@
         }
       ]
     },
-	 {
+    {
       "itemId": "item-b291-4193-b522",
       "itemName": "(진) 봄의 기운 천왕부",
       "slot": "decoration",
@@ -2913,13 +2913,13 @@
           "type": 61,
           "value": 8,
           "name": "공격력을 생명으로 흡수",
-          "targetPart": "clothes"
+          "targetPart": "weapon"
         },
         {
           "type": 54,
           "value": 7,
           "name": "아이템 드랍율 % 증가",
-          "targetPart": "clothes"
+          "targetPart": "weapon"
         },
         {
           "type": 72,
